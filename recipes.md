@@ -103,14 +103,6 @@ Ingredients:
 - 2 tsp vanilla extract
 - 4 cups semisweet chocolate chips
 
-### Banana Pudding
-
-- 2 ripe bananas
-- 1 box vanilla pudding
-- 1 cup milk
-- 1/2 cup whipped cream
-- 1 pinch of salt
-
 Instructions:
 1. Preheat oven to 375°F (190°C).
 2. Combine flour, baking soda, and salt in a bowl.
@@ -121,3 +113,24 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Banana Pudding
+
+- 2 ripe bananas
+- 1 box vanilla pudding
+- 1 cup milk
+- 1/2 cup whipped cream
+- 1 pinch of salt
+
+### Creamy Banana Pudding
+Ingredients:
+1 box (3.4 oz) instant vanilla pudding mix
+2 cups cold milk
+1 can (14 oz) sweetened condensed milk
+1 tablespoon lemon juice (optional, to brighten the flavor)
+1 pinch of salt (to balance sweetness)
+1 cup heavy whipping cream (or 1 tub whipped topping)
+4–5 ripe bananas, sliced
+1 box of vanilla wafers (or graham crackers)
+
+

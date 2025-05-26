@@ -103,6 +103,14 @@ Ingredients:
 - 2 tsp vanilla extract
 - 4 cups semisweet chocolate chips
 
+### Banana Pudding
+
+- 2 ripe bananas
+- 1 box vanilla pudding
+- 1 cup milk
+- 1/2 cup whipped cream
+- 1 pinch of salt
+
 Instructions:
 1. Preheat oven to 375°F (190°C).
 2. Combine flour, baking soda, and salt in a bowl.

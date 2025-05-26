@@ -81,6 +81,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Add 1 tablespoon of lemon juice
 
 Instructions:
 1. Preheat grill to medium-high heat.
